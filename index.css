@@ -274,6 +274,7 @@ h3 {
 
 .hero-image {
   position: relative;
+  border: 3px solid #0a0e4c;
   width: 100%;
   max-width: 400px;
   margin: 0 auto;
